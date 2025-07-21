@@ -1,0 +1,8 @@
+apache-airflow==2.10.5
+apache-airflow-providers-amazon==9.2.0
+apache-airflow-providers-postgres==6.0.0
+pandas==2.1.4
+pendulum==3.0.0
+psycopg2-binary==2.9.10
+requests==2.32.3
+reverse_geocoder==1.5.1
