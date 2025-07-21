@@ -1,2 +1,2 @@
-# earthquake_etl
-earthquake_etl
+# Архитектура
+![Архитектура](images/Arh.png)
