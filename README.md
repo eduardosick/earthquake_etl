@@ -42,7 +42,7 @@ _AIRFLOW_WWW_USER_PASSWORD=airflow
 ## 5. Разворачивание docker-compose
 В каталоге с проектом в терминале написать команды
 ```bash
-docker-compose built
+docker-compose build
 docker-compose up -d
 ```
 Адреса инструментов в браузере:
